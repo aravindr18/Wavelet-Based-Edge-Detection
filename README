@@ -1,0 +1,24 @@
+README
+CSE 573- Computer Vision and Image Processing
+
+Project: Wavelet Based Edge Detection 
+Submitted by : Aravind Kumar Ramesh
+UB Person# : 5013-2610 
+UBID : aravindk
+
+
+Dependencies
+1. cv2
+2. numpy
+3. matplotlib
+4. pywt
+5. scipy
+
+
+How to run the script: 
+
+Expects an argument - parent directory where the test images are stored. 
+
+python Edge\ Detection.py ../Project/Image/
+
+
